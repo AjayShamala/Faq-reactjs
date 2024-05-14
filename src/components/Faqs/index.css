@@ -1,0 +1,16 @@
+.bg-containerss {
+  background-color: #d7dae6;
+  background-size: cover;
+  padding-bottom: 40px;
+  padding: 60px;
+}
+.card-containerss {
+  background-color: #ffffff;
+  margin: 60px;
+  padding-bottom: 30px;
+}
+.heading{
+  color:  #cb8805;
+  text-align: center;
+  padding-top: 30px;
+}
